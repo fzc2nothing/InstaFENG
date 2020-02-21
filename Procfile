@@ -1,0 +1,1 @@
+web: gunicorn InstaFENG.wsgi --log-file -
